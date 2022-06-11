@@ -1,1 +1,1 @@
-echo Hello Zafar
+echo Hello world
